@@ -214,7 +214,7 @@ if %errorlevel%==0  (
 echo "%abrir%" | find "fopenm" > nul
 if %errorlevel%==0  (
     taskkill /FI "windowtitle eq WaitYev"
-    Start "" "C:\Users\tjs_6\Google Drive\OpenWindows"
+    Start "" "C:\Users\tjs_6\Google Drive\GitHub\OpenWindows"
     exit
 )
 
@@ -314,7 +314,7 @@ if %errorlevel%==0  (
 echo "%abrir%" | find "openm" > nul
 if %errorlevel%==0  (
     taskkill /FI "windowtitle eq WaitYev"
-    Start "" "C:\Users\tjs_6\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\tjs_6\Google Drive\OpenWindows"
+    Start "" "C:\Users\tjs_6\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\tjs_6\Google Drive\GitHub\OpenWindows"
     exit
 )
 

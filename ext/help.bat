@@ -2,28 +2,20 @@ mode 110, 50
 @echo off
 title Abrir Programa Help
 color b
-echo  ==================================================== ---------------------------------------------------- 
-echo                 Palabras reservadas                                        ChortCuts
-echo  ==================================================== ----------------------------------------------------
-echo    .................Navegador..DAW...................      c    : Explorador en c:/
-echo         DAW, DWEC, DWES, DAW, DIW, Emp, Ing Tec            d    : Explorador en d:/
-echo          daw, dwec, dwes, daww, diw, emp, ing              e    : Salir
-echo    ..................................................      g, b : Buscar en Google
-echo    ...................Archivo..DAW...................      h    : Help
-echo         DAW, DWEC, DWES, DAW, DIW, Emp, Ing Tec            r    : Return
-echo       fdaw, fdwec, fdwes, fdaww, fdiw, femp, fing          s    : Shutdown -n
-echo    ..................................................      y    : Buscar on YouTube
-echo    ......................Excel.......................
-echo   Commands, CSS, HTML SQL ShortCuts, ProgramSyntax, UnitTest
-echo             com, css, HTML, sql scho, pro, tes
-echo    ..................................................
-echo    cal        : Calendar
-echo    dow        : Download
-echo    dri        : Drive
-echo    gdri       : Drive Ghiz
-echo    hdri       : Drive Hanna
-echo    cal        : Calculadora
-echo    chr        : Chrome
+echo  ============================================================ ---------------------------------------------------- 
+echo                 Palabras reservadas                                                 ChortCuts
+echo  ============================================================ ---------------------------------------------------- 
+echo  .............................Excel..........................   
+echo   Commands, CSS, HTML SQL ShortCuts, ProgramSyntax, UnitTest      c    : Explorador en c:/
+echo             com, css, HTML, sql scho, pro, tes                    d    : Explorador en d:/
+echo    .........................................................   
+echo    cal        : Calendar                                          e    : Salir
+echo    dow        : Download                                          g, b : Buscar en Google
+echo    dri        : Drive                                             h    : Help
+echo    gdri       : Drive Ghiz                                        r    : Return
+echo    hdri       : Drive Hanna                                       s    : Shutdown -n
+echo    cal        : Calculadora                                       y    : Buscar on YouTube
+echo    chr        : Chrome   
 echo    cmd        : cmd
 echo    cod        : VS Code
 echo    fopenm     : Abre archivo del codigo fuente
